@@ -4,19 +4,19 @@ Versioned source files for the frameworks by [Nathan Sweet](https://sweetrationa
 
 | Framework | Role | Read it | Revision 61 DOI | All revisions |
 |---|---|---|---|---|
-| Recursive Corrigibility Framework (RCF) | Methodology | [web](https://sweetrationalism.com/frameworks/recursive-corrigibility-framework/) · [PDF](pdf/Sweet_2026_Recursive_Corrigibility_Framework_Rev61.pdf) | [10.5281/zenodo.23984158](https://doi.org/10.5281/zenodo.23984158) | [10.5281/zenodo.23984157](https://doi.org/10.5281/zenodo.23984157) |
-| A Provisional, Boundary- and Scale-Relative Realism (PBSRR) | Ontology | [web](https://sweetrationalism.com/frameworks/ontology-scale-relative-realism/) · [PDF](pdf/Sweet_2026_Provisional_Boundary_and_Scale-Relative_Realism_Rev61.pdf) | [10.5281/zenodo.23984160](https://doi.org/10.5281/zenodo.23984160) | [10.5281/zenodo.23984159](https://doi.org/10.5281/zenodo.23984159) |
-| Sweet Rationalism: Ethos | Ethos | [web](https://sweetrationalism.com/frameworks/sweet-rationalism-a-foundational-framework/) · [PDF](pdf/Sweet_2026_Sweet_Rationalism_Ethos_Rev61.pdf) | [10.5281/zenodo.23984162](https://doi.org/10.5281/zenodo.23984162) | [10.5281/zenodo.23984161](https://doi.org/10.5281/zenodo.23984161) |
-| Framework Bridge | Interface (research programme within RCF) | [web](https://sweetrationalism.com/frameworks/interoperability-framework-bridge/) · [PDF](pdf/Sweet_2026_Framework_Bridge_Rev61.pdf) | [10.5281/zenodo.23984164](https://doi.org/10.5281/zenodo.23984164) | [10.5281/zenodo.23984163](https://doi.org/10.5281/zenodo.23984163) |
+| Recursive Corrigibility Framework (RCF) | Methodology | [web](https://sweetrationalism.com/frameworks/recursive-corrigibility-framework/) · [PDF](Sweet_2026_Recursive_Corrigibility_Framework_Rev61.pdf) | [10.5281/zenodo.23984158](https://doi.org/10.5281/zenodo.23984158) | [10.5281/zenodo.23984157](https://doi.org/10.5281/zenodo.23984157) |
+| A Provisional, Boundary- and Scale-Relative Realism (PBSRR) | Ontology | [web](https://sweetrationalism.com/frameworks/ontology-scale-relative-realism/) · [PDF](Sweet_2026_Provisional_Boundary_and_Scale-Relative_Realism_Rev61.pdf) | [10.5281/zenodo.23984160](https://doi.org/10.5281/zenodo.23984160) | [10.5281/zenodo.23984159](https://doi.org/10.5281/zenodo.23984159) |
+| Sweet Rationalism: Ethos | Ethos | [web](https://sweetrationalism.com/frameworks/sweet-rationalism-a-foundational-framework/) · [PDF](Sweet_2026_Sweet_Rationalism_Ethos_Rev61.pdf) | [10.5281/zenodo.23984162](https://doi.org/10.5281/zenodo.23984162) | [10.5281/zenodo.23984161](https://doi.org/10.5281/zenodo.23984161) |
+| Framework Bridge | Interface (research programme within RCF) | [web](https://sweetrationalism.com/frameworks/interoperability-framework-bridge/) · [PDF](Sweet_2026_Framework_Bridge_Rev61.pdf) | [10.5281/zenodo.23984164](https://doi.org/10.5281/zenodo.23984164) | [10.5281/zenodo.23984163](https://doi.org/10.5281/zenodo.23984163) |
 | My Current Worldview | Personal working position | [web](https://sweetrationalism.com/worldview/) | none | none |
 
 Definitions of every framework, earlier names and citation formats: <https://sweetrationalism.com/frameworks/>
 
 ## How this repository is used
 
-- `frameworks/` holds the authored HTML source of each file at the current revision. Each revision is one commit and one tag (`rev-61`, `rev-62`, ...), so `git diff rev-61 rev-62` shows exactly what changed.
-- `pdf/` holds the PDF of each framework as deposited on Zenodo.
-- The web pages are the canonical reading copies. They add a short definition box, citation line and revision notice above the source text; nothing else is changed.
+- The `.html` files are the authored source of each framework, and of the worldview, at the current revision. The [Rev-61 tag](https://github.com/nathansweet-sweetrationalism/sweet-rationalism-frameworks/tree/Rev-61) marks the original tagged release. The commit history and changelog record subsequent corrections.
+- The `.pdf` files are the corrected reading copies also served by Sweet Rationalism. The DOI links identify the Zenodo deposits.
+- The web pages are the canonical reading copies and include a definition box, citation line and revision notice.
 - [CHANGELOG.md](CHANGELOG.md) summarizes what each revision changed and why.
 
 History in this repository starts at Revision 61. Earlier revisions are summarized in the revision notes on each framework page.
