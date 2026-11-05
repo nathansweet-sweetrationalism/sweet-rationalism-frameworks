@@ -1,0 +1,36 @@
+cff-version: 1.2.0
+message: "If you use these frameworks, please cite the revision you read."
+title: "Recursive Corrigibility Framework"
+version: "Revision 61"
+date-released: 2026-10-27
+doi: 10.5281/zenodo.23984158
+url: "https://sweetrationalism.com/frameworks/recursive-corrigibility-framework/"
+repository-code: "https://github.com/nathansweet-sweetrationalism/sweet-rationalism-frameworks"
+license: CC-BY-4.0
+type: dataset
+authors:
+  - family-names: Sweet
+    given-names: Nathan
+    orcid: "https://orcid.org/0009-0005-2364-0312"
+    affiliation: "Independent researcher"
+keywords:
+  - epistemology
+  - methodology
+  - corrigibility
+  - philosophy of science
+references:
+  - type: report
+    title: "A Provisional, Boundary- and Scale-Relative Realism (Revision 61)"
+    authors: [{family-names: Sweet, given-names: Nathan}]
+    year: 2026
+    doi: 10.5281/zenodo.23984160
+  - type: report
+    title: "Sweet Rationalism: Ethos (Revision 61)"
+    authors: [{family-names: Sweet, given-names: Nathan}]
+    year: 2026
+    doi: 10.5281/zenodo.23984162
+  - type: report
+    title: "Framework Bridge (Revision 61)"
+    authors: [{family-names: Sweet, given-names: Nathan}]
+    year: 2026
+    doi: 10.5281/zenodo.23984164
