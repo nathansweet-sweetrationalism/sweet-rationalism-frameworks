@@ -12,9 +12,11 @@ Versioned source files for the frameworks by [Nathan Sweet](https://sweetrationa
 
 Definitions of every framework, earlier names and citation formats: <https://sweetrationalism.com/frameworks/>
 
+The same definitions and DOIs, with a mirror of this repository, are on OSF: <https://osf.io/jeawh/>
+
 ## How this repository is used
 
-- The `.html` files are the authored source of each framework, and of the worldview, at the current revision. The [Rev-61 tag](https://github.com/nathansweet-sweetrationalism/sweet-rationalism-frameworks/tree/Rev-61) marks the original tagged release. The commit history and changelog record subsequent corrections.
+- The `.html` files are the authored source of each framework, and of the worldview, at the current revision. The [Rev-61 tag](https://github.com/nathansweet-sweetrationalism/sweet-rationalism-frameworks/tree/Rev-61) marks the Revision 61 release, including the 5 November 2026 corrections to the PDFs and links. The commit history and changelog record any later corrections.
 - The `.pdf` files are the corrected reading copies also served by Sweet Rationalism. The DOI links identify the Zenodo deposits.
 - The web pages are the canonical reading copies and include a definition box, citation line and revision notice.
 - [CHANGELOG.md](CHANGELOG.md) summarizes what each revision changed and why.
